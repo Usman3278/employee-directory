@@ -16,3 +16,6 @@ https://github.com/Usman3278
 
 # Screenshots:
 
+<img width="1433" alt="employeedirectory1" src="https://user-images.githubusercontent.com/71395909/113323726-4b645f00-92e4-11eb-95e8-b54a82cb5c81.png">
+
+<img width="1430" alt="employeedirectory2" src="https://user-images.githubusercontent.com/71395909/113323739-4f907c80-92e4-11eb-84cf-86d576ab2109.png">
