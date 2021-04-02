@@ -12,7 +12,7 @@ For this assignment, you'll create a employee directory with React. This assignm
 https://github.com/Usman3278/employee_directory
 
 # Portfolio Page
-https://github.com/Usman3278
+https://github.com/Usman3278 
 
 # Screenshots:
 
